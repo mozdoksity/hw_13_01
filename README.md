@@ -69,8 +69,6 @@ vsftpd 2.3.4  https://www.exploit-db.com/exploits/17491
 UnrealIRCd 3.2.8.1 https://www.exploit-db.com/exploits/16922
 
   
-*Приведите ответ в свободной форме.*  
-
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
